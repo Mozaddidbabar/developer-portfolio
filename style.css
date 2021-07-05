@@ -62,3 +62,16 @@ h2{
     background-position: left;
     padding-bottom: 100px;
 }
+#baby-developer{
+    border-left: 7px solid;
+    background-image: linear-gradient(blue, cyan);
+    border-image-slice: 1;
+}
+#full-stack-developer{
+    border-left: 7px solid;
+    background-image: linear-gradient(salmon, tomato);
+    border-image-slice: 1;
+}
+footer p{
+    text-align: center;
+}
